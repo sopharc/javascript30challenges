@@ -1,5 +1,5 @@
 html {
-  background-image: "clock-background.jpg";
+  background: url(https://images.unsplash.com/photo-1512736912-cd9db1d90b72?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80);
   background-size: cover;
 }
 
@@ -8,8 +8,8 @@ html {
 }
 
 .clock {
-    width: 10rem;
-    height: 10rem;
+    width: 15rem;
+    height: 15rem;
     border: 10px solid white;
     border-radius: 50%;
     margin: 200px auto;
@@ -36,13 +36,13 @@ html {
 }
 
 .hour-hand {
-  color: white;
+  background-color: #F08514;
 }
 
 .min-hand {
-  color: #cee0CC;
+  background-color: #cee0CC;
 }
 
 .second-hand {
-  color: #ddcccc;
+  background: #ddcccc;
 }
