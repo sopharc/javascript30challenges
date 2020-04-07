@@ -36,9 +36,13 @@ html {
 }
 
 .hour-hand {
-  color: black;
+  color: white;
 }
 
 .min-hand {
-  color:;
+  color: #cee0CC;
+}
+
+.second-hand {
+  color: #ddcccc;
 }
