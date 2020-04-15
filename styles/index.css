@@ -1,0 +1,33 @@
+ul {
+  list-style-type: none;
+  display: inline;
+}
+
+#menu-outer {
+  height: 84px;
+  background: url(images/bar-bg.jpg) repeat-x;
+  padding-top: 150px;
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+}
+
+
+.table {
+  display: table;   /* Allow the centering to work */
+  margin: 0 auto;
+}
+
+ul#horizontal-list {
+  min-width: 696px;
+  list-style: none;
+  padding-top: 20px;
+  }
+  ul#horizontal-list li {
+    display: inline;
+  }
+
+ul a {
+  text-decoration: none;
+  padding: 6px;
+}
