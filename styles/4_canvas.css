@@ -1,0 +1,10 @@
+.title {
+  display: flex;
+  align-items: center;
+  z-index: -50;
+  position: fixed;
+  height: 100vh;
+  top: vh50;
+  color: darkgrey;
+  font-family: 'Roboto', sans-serif;
+}
